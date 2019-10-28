@@ -1,0 +1,28 @@
+_repo: The-Trial-of-Captain-John-Kimber-for-the-Murder-of-Two-Female-Negro-Slaves-on-Board-the-Recov__60538
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Student of the Temple
+    alias: Temple, Student of the
+    gutenberg_agent_id: '51005'
+    url: http://www.gutenberg.org/2009/agents/51005
+description: ''
+gutenberg_issued: '2019-10-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60538'
+  lccn: '42028621'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women slaves -- Africa'
+- !lcc 'KD'
+- !lcsh 'Kimber, John -- Trials, litigation, etc.'
+- !lcsh 'Trials (Murder) -- England -- London'
+- GITenberg
+title: "The Trial of Captain John Kimber, for the Murder of Two Female Negro Slaves,\
+  \ on Board the Recovery, African Slave Ship\r\nTried at the Admiralty Sessions,\
+  \ Held at the Old Baily, the 7th of June, 1792"
+url: http://www.gutenberg.org/ebooks/60538
